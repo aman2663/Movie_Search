@@ -1,4 +1,5 @@
 #How to deploy React App
+[Live](https://aman2663.github.io/Movie_Search/)
 
 1.npm install gh-pages --save-dev
 2.Open package.json. At the top add a “homepage” property.
